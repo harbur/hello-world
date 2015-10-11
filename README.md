@@ -20,4 +20,4 @@ After signing up you will receive a `config.json` file with the credentials for 
 
 # Launching Hello World
 
-![Preview](imgs/preview.png)
+![Preview](https://raw.githubusercontent.com/harbur/hello-world/master/imgs/preview.png)
