@@ -6,7 +6,7 @@ Hello-world is a simple web server.
 
 Hello-world requires docker to be installed on the machine. Check [Docker Installation](https://docs.docker.com/installation/) page to prepare your environment before continuing. 
 
-After your done with installation you can validate everything is ok by doing the following:
+After you're done with installation you can validate everything is ok by doing the following:
 
 ```shell
 $ docker version
